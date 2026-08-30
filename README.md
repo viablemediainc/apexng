@@ -1,2 +1,2 @@
-# apexng
+# ApexNG
 Angular UI component library
